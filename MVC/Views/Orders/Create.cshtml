@@ -1,0 +1,56 @@
+﻿@model MVC.Models.Orders.OrderCreateViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>OrderCreateViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateOrder">
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                @Html.DropDownList("UserId",new SelectList(ViewBag.users,"Id","UserName"),new {@class = "form-control"})
+                <span asp-validation-for="UserId" class="text-danger"></span>
+                <br />
+            </div>
+
+            <input type="hidden" name="asd" asp-for="items" /></td>
+            <div class="col-md-10">
+                @foreach (var item in Model.items)
+                {
+                    <p>Order line items</p>
+                    <div class="row">
+                        <div class="col-md-4">
+                            Name: @Html.DisplayFor(model => item.FlowerName)
+                        </div>
+                        <div class="col-md-4">
+                            Quantity: @Html.DisplayFor(model => item.Quantity)
+                        </div>
+                    </div>
+                }
+                <br />
+                <p>Add line item</p>
+                <div class="row">
+                    <div class="col-md-4">
+                        Flower @Html.DropDownList("ItemId",new SelectList(ViewBag.flowers ,"Id","Name"),new {@class = "form-control"})
+                    </div>
+                    <div class="col-md-4">
+                        Quantity @Html.EditorFor(model => model.Quantity, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <div class="col-md-4">
+                        <input type="submit" value="Add Item" class="btn btn-primary" />
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

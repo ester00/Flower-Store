@@ -1,0 +1,17 @@
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\BCrypt.Net.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\Data.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\Repository.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\Data.pdb
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\Data.dll.config
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\BCrypt.Net.xml
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\obj\Debug\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\ApplicationService\obj\Debug\ApplicationService.pdb

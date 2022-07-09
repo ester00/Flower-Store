@@ -1,0 +1,15 @@
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\Repository.dll.config
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\Repository.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\Repository.pdb
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\Data.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\EntityFramework.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\Data.pdb
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\Data.dll.config
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\EntityFramework.xml
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\obj\Debug\Repository.dll
+C:\Users\ester\Documents\New project\Target-2001321062\Target\Repository\obj\Debug\Repository.pdb
